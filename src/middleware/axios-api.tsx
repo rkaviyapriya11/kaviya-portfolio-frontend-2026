@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const BASE_URL = "http://localhost:9070";
+export const BASE_URL = "kaviya-portfolio-backend-2026.railway.internal";
 
 export default axios.create({
   baseURL: BASE_URL,
