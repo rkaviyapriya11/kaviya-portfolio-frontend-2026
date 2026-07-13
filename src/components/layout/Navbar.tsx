@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import { heroContent } from '../../data/portfolio';
 import styles from './Navbar.module.css';
 
 type NavItem = {
